@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Laba№2_SingleLinkedList1/1.0.0": {
+        "runtime": {
+          "Laba№2_SingleLinkedList1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laba№2_SingleLinkedList1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

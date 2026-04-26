@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD6F6F7-BD00-8990-A576-C5F0758A4C75}|Laba2_CycleDoubleLinkedList.csproj|c:\\users\\nikolay\\desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\laba2_cycledoublelinkedlist2\\cycledoublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD6F6F7-BD00-8990-A576-C5F0758A4C75}|Laba2_CycleDoubleLinkedList.csproj|solutionrelative:cycledoublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C77F63-C580-7674-22EB-ABEF063FB71A}|Laba2_CycleDoubleLinkedList.csproj|C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\creatingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07C77F63-C580-7674-22EB-ABEF063FB71A}|Laba2_CycleDoubleLinkedList.csproj|solutionrelative:creatingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD6F6F7-BD00-8990-A576-C5F0758A4C75}|Laba2_CycleDoubleLinkedList.csproj|c:\\users\\nikolay\\desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\laba2_cycledoublelinkedlist2\\creatingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD6F6F7-BD00-8990-A576-C5F0758A4C75}|Laba2_CycleDoubleLinkedList.csproj|solutionrelative:creatingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD6F6F7-BD00-8990-A576-C5F0758A4C75}|Laba2_CycleDoubleLinkedList.csproj|c:\\users\\nikolay\\desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\laba2_cycledoublelinkedlist2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BD6F6F7-BD00-8990-A576-C5F0758A4C75}|Laba2_CycleDoubleLinkedList.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BD6F6F7-BD00-8990-A576-C5F0758A4C75}|Laba2_CycleDoubleLinkedList.csproj|C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BD6F6F7-BD00-8990-A576-C5F0758A4C75}|Laba2_CycleDoubleLinkedList.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\CreatingForm.cs",
+              "RelativeDocumentMoniker": "CreatingForm.cs",
+              "ToolTip": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\CreatingForm.cs",
+              "RelativeToolTip": "CreatingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:50:43.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreatingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\CreatingForm.cs",
+              "RelativeDocumentMoniker": "CreatingForm.cs",
+              "ToolTip": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\CreatingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CreatingForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T07:50:39.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CycleDoubleLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\CycleDoubleLinkedList.cs",
+              "RelativeDocumentMoniker": "CycleDoubleLinkedList.cs",
+              "ToolTip": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\CycleDoubleLinkedList.cs",
+              "RelativeToolTip": "CycleDoubleLinkedList.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAcwL4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:23:09.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:14:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\Laba2_CycleDoubleLinkedList2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Nikolay\\Desktop\\\u043B\u0430\u0431\u044B \u0432\u0430\u0436\u043D\u043E\u0435\\2 \u0441\u0435\u043C\\2 \u043B\u0430\u0431\u0430 \u0447\u0430\u0441\u0442\u044C 2\\lab1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\lab1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:14:35.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

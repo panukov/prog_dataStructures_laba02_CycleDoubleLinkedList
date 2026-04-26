@@ -1,0 +1,73 @@
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.exe
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.deps.json
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.runtimeconfig.json
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.pdb
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.Form1.resources
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.csproj.GenerateResource.cache
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\refint\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.pdb
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.genruntimeconfig.cache
+C:\Users\Nikolay\source\repos\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\ref\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.exe
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.deps.json
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.runtimeconfig.json
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.pdb
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.AboutProgram.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.AddAtEnd.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.AddAtStart.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.AddToAny.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.CreatingForm.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.MainForm.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.csproj.GenerateResource.cache
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\refint\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.pdb
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.genruntimeconfig.cache
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\ref\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.DeleteAtAny.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.DeleteAtEnd.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.DeleteAtStart.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.DeleteByYear.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.DestroyList.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.FindByName.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba_2_SingleLinkedList1.PrintAll.resources
+C:\Users\Nikolay\Desktop\лабы важное\прошедшие лабы\Laba№2_SingleLinkedList1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.sourcelink.json
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.AboutProgram.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.AddAtEnd.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.AddAtStart.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.AddToAny.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.CreatingForm.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.DeleteAtAny.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.DeleteAtEnd.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.DeleteAtStart.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.DeleteByYear.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.DestroyList.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.FindByName.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.MainForm.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba_2_CycleDoubleLinkedList2.PrintAll.resources
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.csproj.GenerateResource.cache
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.AssemblyInfoInputs.cache
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.AssemblyInfo.cs
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\refint\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.pdb
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.exe
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.deps.json
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.runtimeconfig.json
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.dll
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\bin\Debug\net10.0-windows\Laba№2_SingleLinkedList1.pdb
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\Laba№2_SingleLinkedList1.genruntimeconfig.cache
+C:\Users\Nikolay\Desktop\лабы важное\2 сем\2 лаба часть 2\lab1\obj\Debug\net10.0-windows\ref\Laba№2_SingleLinkedList1.dll

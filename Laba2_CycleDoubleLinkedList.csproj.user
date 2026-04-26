@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AboutProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddAtEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddAtStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddToAny.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreatingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteAtAny.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteAtEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteAtStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteByYear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DestroyList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FindByName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
