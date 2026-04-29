@@ -65,18 +65,19 @@ namespace Laba2_CycleDoubleLinkedList
                 dgv.Columns.Add("Year", "Год");
             }
 
-            if (head.Next == head) return;
-
-            DoubleNode current = head.Next;
-            int position = 1;
-
-            do
+            if (head.Next != head)
             {
-                dgv.Rows.Add(position, current.Id, current.Title, current.Author, current.Year);
-                current = current.Next;
-                position++;
+
+                DoubleNode current = head.Next;
+                int position = 1;
+
+                while (current != head)
+                {
+                    dgv.Rows.Add(position, current.Id, current.Title, current.Author, current.Year);
+                    current = current.Next;
+                    position++;
+                }
             }
-            while (current != head);
         }
 
         public void AddToEnd(int id, string title, string author, int year)
@@ -99,27 +100,27 @@ namespace Laba2_CycleDoubleLinkedList
             head.Next = newNode;
         }
 
-        public CycleDoubleLinkList FindAll(string title)
+        public void FindAll(string title, DataGridView datagridview)
         {
-            CycleDoubleLinkList result = new CycleDoubleLinkList();
 
             if (head.Next == head) MessageBox.Show("Список пуст");
             else
             {
-                DoubleNode p = head;
-                do
+                datagridview.Rows.Clear();
+                
+                DoubleNode p = head.Next;
+                int position = 1;
+                while (p != head)
                 {
                     if (p.Title == title)
                     {
-                        result.AddToEnd(p.Id, p.Title, p.Author, p.Year);
+                        datagridview.Rows.Add(position, p.Id, p.Title, p.Author, p.Year);
                     }
                     p = p.Next;
                 }
-                while (p != head);
-
+                if (datagridview.Rows.Count == 0) MessageBox.Show("Книги не найдены");
+                else datagridview.Visible = true;
             }
-
-            return result;
         }
         public void InsertInAny(int id, string title, string author, int year, int n)
         {
@@ -133,7 +134,7 @@ namespace Laba2_CycleDoubleLinkedList
             }
             else
             {
-                DoubleNode current = head.Next;  
+                DoubleNode current = head.Next;
                 int currentIndex = 1;
 
                 while (current != head && currentIndex < n - 1)
@@ -188,7 +189,7 @@ namespace Laba2_CycleDoubleLinkedList
             }
             else
             {
-                DoubleNode toDelete = head.Next; 
+                DoubleNode toDelete = head.Next;
                 int currentIndex = 1;
 
                 while (toDelete != head && currentIndex < n)
@@ -215,7 +216,7 @@ namespace Laba2_CycleDoubleLinkedList
             else
             {
                 DoubleNode p = head.Next;
-                do
+                while (p != head)
                 {
                     DoubleNode next = p.Next;
 
@@ -226,7 +227,6 @@ namespace Laba2_CycleDoubleLinkedList
                     }
                     p = next;
                 }
-                while (p != head);
             }
         }
         public void DestroyList()

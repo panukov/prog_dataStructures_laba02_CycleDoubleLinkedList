@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laba2_CycleDoubleLinkedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+437b7351a92d496a115b12aa14f9e5a5731b779d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laba2_CycleDoubleLinkedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laba2_CycleDoubleLinkedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
